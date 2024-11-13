@@ -1,0 +1,17 @@
+CriaCARTAO{
+'Programação',
+'O que é o Python?',
+'O Python é uma linguagem de programação'
+}
+
+CriaCARTAO{
+    'Geografia'
+    'Qual a capítal da França?',
+    'A capítal da França é Paris'
+}
+
+CriaCARTAO{
+    'Programação',
+    'O que é função?',
+    'Uma função é um bloco de códigos que execulta alguma tarefa'
+}
